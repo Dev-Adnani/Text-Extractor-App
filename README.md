@@ -1,8 +1,6 @@
 # Text-Extractor-App-Flutter
 - A Text Extractor App From Image !
-
-## ⚙️ Tech-Stack
-The application is built entirely with Flutter. For the detection part, I have made use of Google ML Kit.
+- Used Google ML Kit To Scrap Text From Image 
 
 ## Libraries
 
